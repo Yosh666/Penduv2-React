@@ -1,0 +1,20 @@
+let Animals=[
+    "PANGOLIN",
+    "SCOLOPENDRE",
+    "HIPPOCAMPE",
+    "CARCAJOU",
+    "FENNEC",
+    "MACAQUES",
+    "AXOLOTL",
+    "CAMELEON",
+    "AUTRUCHE",
+    "IGUANE",
+    "TARENTULE",
+    "DAUPHIN",
+    "CACATOES",
+    "EPAGNEUL",
+    "CAMELEON",
+    "BALEINE",
+    "ELEPHANT",
+]
+export default Animals

@@ -1,4 +1,4 @@
-let Animals=[
+const Animals=[
     "PANGOLIN",
     "SCOLOPENDRE",
     "HIPPOCAMPE",

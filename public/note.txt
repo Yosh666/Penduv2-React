@@ -1,0 +1,4 @@
+a mettre dans render choosen categ
+<div className={choosen? 'show':'hide'}>
+                    <Word choosenWord={choosenWord} />
+                </div>
